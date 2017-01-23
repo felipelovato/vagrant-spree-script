@@ -1,2 +1,4 @@
 .vagrant
 rails
+project
+*.log
